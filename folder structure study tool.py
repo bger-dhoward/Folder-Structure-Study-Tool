@@ -137,7 +137,7 @@ the total size and number of files at each level.
 {bcolors.OKGREEN}Instructions:{bcolors.ENDC}
 1. Select Directory to be scanned.
 2. Tool will scan all permissible files and subdirectories.
-    - Note: this may take a long time for directories with many subdirectories and files.
+    {bcolors.FAIL}- Note: this may take a long time for directories with many subdirectories and files.{bcolors.ENDC}
 3. When scan is complete, save the results .CSV file to your preferred location.
 4. Press Enter to select another directory, or Q to quit.
 
